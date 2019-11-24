@@ -1,0 +1,7 @@
+int i1 = Integer.parseInt(scan.nextLine());
+        double d1 = Double.parseDouble(scan.nextLine());
+        String s1 = scan.nextLine();
+
+        System.out.println(i+i1);
+        System.out.println(d+d1);
+        System.out.println(s+s1);
